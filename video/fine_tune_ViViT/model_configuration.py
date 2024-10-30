@@ -1,5 +1,4 @@
 import numpy as np
-from datasets import load_metric
 from transformers import  VivitConfig,VivitForVideoClassification
 import torch
 import evaluate
